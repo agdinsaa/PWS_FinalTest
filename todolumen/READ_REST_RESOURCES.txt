@@ -1,0 +1,13 @@
+
+
+				DAFTAR REST RESOURCES
+==========================================================================
+POST
+- POST/mhs
+GET
+- GET/mhs
+- GET/mhs/id
+PUT
+- PUT/mhs/id
+DELETE
+- DELETE/mhs/id
